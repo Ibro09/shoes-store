@@ -223,7 +223,7 @@ font-size: 23px;
 margin-top: 30px;
 transition: var(--transition);
 border-radius: 7px ;
-  border:none;
+  border:1px solid black;
 }
 .products a{
   color: black;

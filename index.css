@@ -670,10 +670,11 @@ main{
 }
 @media (max-width:400px){
   .item{
-  min-width:40%;
+  width:300px;
   }
   .img-container{
   width:120px;
+    max-width:40%;
   }
   .text-center{
     width:auto;

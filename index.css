@@ -667,3 +667,7 @@ main{
     transition: var(--transition);
   }
 }
+@media (max-width:400px){
+  .item{
+  max-width:300px;
+  }

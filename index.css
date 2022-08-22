@@ -65,6 +65,7 @@ Global Styles
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  overflow-X:hidden
 }
 body {
   font-family: var(--ff-secondary);
@@ -671,3 +672,8 @@ main{
   .item{
   max-width:300px;
   }
+  .img-container{
+  width:120px;
+  }
+  .text-center{
+    width:auto;

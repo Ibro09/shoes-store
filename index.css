@@ -670,7 +670,7 @@ main{
 }
 @media (max-width:400px){
   .item{
-  max-width:300px;
+  min-width:40%;
   }
   .img-container{
   width:120px;
